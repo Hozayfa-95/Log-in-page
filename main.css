@@ -90,7 +90,8 @@ P {
 }
 .intro-img {
     background: linear-gradient(217.64deg, #9181F4 -5.84%, #5038ED 106.73%);
-    background-image: URL("../Rectangle\ 4.png");
+    background-image: URL("../Log-in-page/Rectangle\ 4.png");
+
     min-width: 680px;
     height: 100vh;/
     display: flex;
